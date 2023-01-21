@@ -1,0 +1,9 @@
+header,footer{
+  background: linear-gradient(to right, blue, crimson);
+  color: white;
+  text-align: center;
+  /* height: 10vh; */
+  }
+header,footer{
+  padding: 10px 0;
+  }
